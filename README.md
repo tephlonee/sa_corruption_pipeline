@@ -3,7 +3,7 @@
 ## Overview
 This project implements an automated, event-driven data pipeline designed to monitor, ingest, and analyze media articles and social media sentiment related to public sector corruption in South Africa. The system focuses on specific individuals and keywords (e.g., "Corruption", "Fraud") to provide near real-time insights.
 
-(Corruption_SA_AWS_structure.drawio.png)
+![System Architecture](Corruption_SA_AWS_structure.drawio.png)
 
 ## Architecture & Services
 
